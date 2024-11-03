@@ -1,3 +1,8 @@
+// Student Name     : Ariel Fajimiyo
+// Student Id Number: C00300811@setu.ie
+// Date             : 30/10/24
+// Purpose          : A test driver program for my Algorithms
+
 public class Q3 
 {
     public static void main(String[] args)
